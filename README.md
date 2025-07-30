@@ -106,9 +106,7 @@ git push origin feature/your-feature-name
 This project is licensed under the MIT License.
 
 ✉️ Contact
-Developer: Vickey Yadav
-
-📧 Email: vickeyyadav0088@gmail.com
+Developer: AYUSH
 
 
 yaml
